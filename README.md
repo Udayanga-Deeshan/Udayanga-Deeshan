@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, I'm Udayanga Deeshan, a fresh graduate and a passionate Full-Stack Developer 🚀. I love building modern, scalable, and user-friendly web applications. My expertise lies in both frontend and backend development, ensuring seamless user experiences and efficient system performance.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/udayanga-deeshan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udayangadilshan1789@gmail.com) 

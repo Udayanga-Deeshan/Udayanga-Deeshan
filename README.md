@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=FFA500&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Udayanga+Deeshan!+👋;Full-Stack+Developer+💻;">
 </h1>
- 🎓 A fresh graduate and a passionate Full-Stack Developer 💻. I love building modern, scalable, and user-friendly web applications. My expertise lies in both frontend and backend development, ensuring seamless user experiences and efficient system performance.
+ 🎓 A fresh graduate and a passionate Full-Stack Developer 💻. I love building modern, scalable, and user-friendly web applications.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />

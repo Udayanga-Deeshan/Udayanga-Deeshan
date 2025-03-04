@@ -5,8 +5,9 @@
  🎓 A fresh graduate and a passionate Full-Stack Developer 💻. I love building modern, scalable, and user-friendly web applications.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </p>
+
 
 
 ## 🌐 Socials:
